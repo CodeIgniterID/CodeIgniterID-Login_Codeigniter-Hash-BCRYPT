@@ -1,5 +1,5 @@
 # CodeIgniterID-Login_Codeigniter-Hash-BCRYPT
-Sistem login aman codeigniter dengan Hash + Session
+Sistem login aman codeigniter dengan Hash + Session BCRYPT.
 # Helper Login
 
 <?php
